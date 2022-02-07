@@ -9,4 +9,4 @@ This repo really has two main purposes.
 
 ## Contents:
 
-* `BIOS-8040` [PRIVATE]: Course materials for BIOS 8040 -- Advanced Biostatistics at the University of Georgia.
+* `BIOS-8040` [PRIVATE]: Advanced Biostatistics, Dr. Ye Shen, University of Georgia
