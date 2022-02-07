@@ -1,0 +1,3 @@
+[submodule "BIOS-8040"]
+	path = BIOS-8040
+	url = git@github.com:wzbillings/BIOS-8040.git
