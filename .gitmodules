@@ -1,3 +1,6 @@
 [submodule "BIOS-8040"]
 	path = BIOS-8040
 	url = git@github.com:wzbillings/BIOS-8040.git
+[submodule "BIOS-8030"]
+	path = BIOS-8030
+	url = git@github.com:wzbillings/BIOS-8030.git
